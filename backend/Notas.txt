@@ -1,0 +1,27 @@
+/*Conceito:
+* Rota e recurso
+*/
+
+/* Métodos HTTP
+*
+*   GET:    Buscar/Listar uma informação do back-end.
+*   POST:   Criar uma informação no back-end.
+*   PUT:    Alterar uma informação no back-end.
+*   DELETE: Deletar uma informação no back-end.
+*
+*/
+
+/* Tipos de parâmetros
+*
+*   Query Parameters:   São parâmetros enviados/nomeados através da URL (Rota), após o '?'.
+*   Usa para filtros, paginação.
+*
+*   Route Parameters: São parâmetros para identificar recursos.  
+*
+*   Request Body:  É o  corpo da requisição, utilizado para criar ou alterar recursos.
+*
+*/
+
+/*  Bancos de dados
+*   npx knex = lista todos os comandos do knex
+*/
